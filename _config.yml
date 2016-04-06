@@ -1,14 +1,26 @@
-layout_spectrum: 0.07474474
-typography_spectrum: 0.7018739
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6422578
-  lightness: 0.5047426
-  brandStrength: 0.848694
-  rhythmicContrast: 0.9025055
+  saturation: 1
+  brandStrength: 0.9154136
+  lightness: 0.1704261
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+  rhythmicContrast: 0
+typography_spectrum: 0.7018739
+layout_spectrum: 0.07474474
 name: Jeep Mods
