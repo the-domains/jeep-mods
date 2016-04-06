@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jeep Mods]]></title>
         <description><![CDATA[Jeep Mods]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeep-mods/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 22:04:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 22:13:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeep-mods/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fc7d7ce-f794-44b5-b3e9-ca33a5c09065.png">]]></description>
-            <link>undefined5d4dd9d6-e64f-4a22-a7e3-0f91e2b08efe/index.html</link>
+            <link>https://thegrid.ai/jeep-mods/5d4dd9d6-e64f-4a22-a7e3-0f91e2b08efe/index.html</link>
             <guid isPermaLink="false">5d4dd9d6-e64f-4a22-a7e3-0f91e2b08efe</guid>
-            <pubDate>Wed, 06 Apr 2016 22:04:49 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 22:13:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
